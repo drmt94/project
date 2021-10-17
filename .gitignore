@@ -1,0 +1,4 @@
+.idea/
+src/main/java/com/project/AppConfig.java
+# Project exclude paths
+/target/
